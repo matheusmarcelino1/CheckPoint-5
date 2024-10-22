@@ -1,2 +1,5 @@
-# CheckPoint-5
-Repositório destinado ao CheckPoint 5 de Edge Computing
+Douglas Do Santos - RM556439
+Gabriel Danius - RM555747
+Henrique Sanches - RM557959
+Matheus Marcelino - RM556332
+Vitor Chaves - RM557067
