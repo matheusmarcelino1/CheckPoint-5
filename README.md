@@ -7,3 +7,7 @@
   <li>Vitor Chaves - RM557067</li>
   <li><h3><a href="https://wokwi.com/projects/410589620697170945">Projeto Wokwi</a></h3></li>
 </ul>
+
+<h2>Imagens</h2>
+<img src="./docs/vps-config.png">
+<img src="./docs/wokwi.png">
