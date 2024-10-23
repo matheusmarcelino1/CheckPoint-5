@@ -11,3 +11,6 @@
 <h2>Imagens</h2>
 <img src="./docs/vps-config.png">
 <img src="./docs/wokwi.png">
+
+<h2>Video</h2>
+<video src="./docs/video.mp4" width="600" height="400" controls>
