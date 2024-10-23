@@ -13,4 +13,4 @@
 <img src="./docs/wokwi.png">
 
 <h2>Video</h2>
-<video src="./docs/video.mp4" width="600" height="400" controls>
+<video src='docs/video.mp4' controls width="400" height="400"/>
