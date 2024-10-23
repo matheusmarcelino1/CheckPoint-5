@@ -6,11 +6,10 @@
   <li>Matheus Marcelino - RM556332</li>
   <li>Vitor Chaves - RM557067</li>
   <li><h3><a href="https://wokwi.com/projects/410589620697170945">Projeto Wokwi</a></h3></li>
+  <li><h3><a href="https://youtu.be/zNOgsPgJjaQ">Video</a></h3></li>
+
 </ul>
 
 <h2>Imagens</h2>
 <img src="./docs/vps-config.png">
 <img src="./docs/wokwi.png">
-
-<h2>Video</h2>
-<video src='docs/video.mp4' controls width="400" height="400"/>
